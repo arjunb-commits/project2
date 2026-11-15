@@ -1,0 +1,4 @@
+# Player data is created at runtime and must never be committed.
+data/users.json
+data/scores.json
+.DS_Store
