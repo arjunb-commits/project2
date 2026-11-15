@@ -5,8 +5,8 @@ Race the Dice Bot from square 1 to 100 on a board that PHP generates fresh every
 
 **Tech:** PHP 7.4+ (tested on 8.3), HTML5, CSS3. No JavaScript. No database (accounts and scores are stored in JSON files).
 
-- GitHub: https://github.com/toarjunb-commits/ArjunBaskar_AdventuresOfTheDice
-- CODD: https://codd.cs.gsu.edu/~abaskar2/ArjunBaskar_AdventuresOfTheDice/
+- GitHub: https://github.com/arjunb-commits/project2
+- CODD: https://codd.cs.gsu.edu/~abaskar2/project2/index.php
 
 
 ## How to play
